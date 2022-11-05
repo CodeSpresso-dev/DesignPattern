@@ -1,4 +1,4 @@
-It defines a family of algorithms.
+It defines a family of algorithms .
 It encapsulates each algorithm.
 It makes the algorithms interchangeable within that family.
 

@@ -1,6 +1,6 @@
 package behavioral.strategy.payment;
 
-public class CreditCardStrategy implements PaymentStrategy {
+public class CreditCardStrategy implements PaymentStrategy  {
     private String name;
     private String cvv;
     private String cardNumber;

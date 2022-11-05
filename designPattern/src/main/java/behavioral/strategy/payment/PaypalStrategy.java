@@ -1,6 +1,6 @@
 package behavioral.strategy.payment;
 
-public class PaypalStrategy implements PaymentStrategy{
+public class PaypalStrategy implements PaymentStrategy {
     private String emailId;
     private String password;
 

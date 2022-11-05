@@ -3,7 +3,7 @@ package behavioral.strategy.payment;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ShoppingCart {
+public class ShoppingCart  {
     private List<Item> items;
 
     public ShoppingCart() {
