@@ -1,0 +1,4 @@
+according to the GOF design patterns, in this case
+ImageCompressor, ImageFilter = Strategy
+JpegImageCompressor, PDFImageCompressor, HighContrastFilter = Concrete Strategy
+ImageStore = Context
