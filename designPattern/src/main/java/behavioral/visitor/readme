@@ -1,0 +1,5 @@
+In this example the following classes are used as
+operation = visitor
+htmlNode = Element
+headingNode, AnchorNode = ElementConcreteNodes
+HighlightOperation, PlainTextOperation = ConcreteOperations
